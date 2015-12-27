@@ -1879,7 +1879,7 @@
 	}
 
 	header p {
-		color: #a8b0b3;
+		color: #e3508e;
 		letter-spacing: 0.05em;
 		text-transform: uppercase;
 	}
@@ -2546,7 +2546,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8cd1a8;
+			background-color: #3d9662;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
@@ -2698,7 +2698,7 @@
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {
-				color: #ffffff;
+				color: #e3508e;
 			}
 
 			#header header a {
@@ -2720,7 +2720,7 @@
 				}
 
 			#header header p {
-				color: #ffffff;
+				color: #e3508e;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
